@@ -1,9 +1,9 @@
 자기소개
 ----------------
-이름 : 이정우
+이름 :
 
-팀 : 티켓서비스운영팀
+팀 : 
 
-Github ID : kenlima
+Github ID : 
 
-E-mail : kenlima2k@gmail.com
+E-mail : 
